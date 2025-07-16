@@ -164,12 +164,12 @@ function App() {
         {/* Footer */}
         <footer className="mt-16 text-center py-8 border-t border-gray-200 dark:border-gray-700">
           <p className="text-sm text-gray-500 dark:text-gray-400">
-            ChartWhiz - Create charts from data quickly and easily
+            Chartify - Create charts from data quickly and easily
           </p>
         </footer>
       </main>
     </div>
   );
-}
+} 
 
 export default App;

@@ -117,7 +117,7 @@ export const ChartTypeSelector: React.FC<ChartTypeSelectorProps> = ({
   const recommendedType = getRecommendedType();
 
   return (
-    <div className="bg-white dark:bg-gray-900 rounded-lg shadow-md border border-gray-200 dark:border-gray-700 p-6 theme-transition">
+    <div className=" bg-white dark:bg-gray-900 rounded-lg shadow-md border border-gray-200 dark:border-gray-700 p-6 theme-transition">
       <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">
         Select Chart Type
       </h3>

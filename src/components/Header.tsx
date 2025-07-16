@@ -16,7 +16,7 @@ export const Header: React.FC<HeaderProps> = ({ darkMode, toggleDarkMode }) => {
               <BarChart3 className="h-6 w-6 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900 dark:text-white">ChartWhiz</h1>
+              <h1 className="text-2xl font-bold text-gray-900 dark:text-white">Chartify</h1>
               <p className="text-sm text-gray-600 dark:text-gray-400">Create charts from data quickly and easily</p>
             </div>
           </div>
